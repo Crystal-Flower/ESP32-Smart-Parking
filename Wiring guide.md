@@ -193,6 +193,3 @@ AVAILABLE ➜ OCCUPIED
 Your Smart Parking System is now configured and ready to use.
 
 Happy Building! 🎉
-
-```
-```
